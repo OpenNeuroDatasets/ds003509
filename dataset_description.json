@@ -1,0 +1,11 @@
+{
+  "Name": "SimonConflict",
+  "ReferencesAndLinks": ["PMID: 29802866"],
+  "Authors": [
+    "James F Cavanagh",
+    "Arun Singh",
+    "Kumar Narayanan"
+  ],
+  "License": "",
+  "BIDSVersion": "1.1.1"
+}
